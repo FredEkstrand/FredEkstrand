@@ -5,10 +5,10 @@
 ![C Languge](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/c-language64.png) ![C++](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/cpp64.png) ![CSharp](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/csharp64.png) ![Java](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/java64.png)
 
 ### Web
-![HTML](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/html64.png) ![asp](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/aspnet64.png) ![css](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/css64.png) ![sass](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/SASS64.png)
+![HTML](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/html64.png) ![asp](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/aspnet64.png) ![css](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/css64.png) 
 
 ### Scripting
-![JS](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/javascript64.png) ![JSNode](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/jsnode64.png) ![Python](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/python64.png) ![PowerShell](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/powershell64.png) ![Bash](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/bash64.png) ![AWK](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/awk64.png)
+![JS](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/javascript64.png) ![JSNode](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/jsnode64.png) ![sass](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/SASS64.png) ![Python](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/python64.png) ![PowerShell](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/powershell64.png) ![Bash](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/bash64.png) ![AWK](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/awk64.png)
 
 ### OS Platforms
 ![Windows](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/WindowsOS64.png) ![Linux](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/LinuxOS64.png) ![Solaris](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/solaris64.png) ![HP-UX](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/hpux64.png) ![Raspberry Pi](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Raspberry_Pi64.png)
