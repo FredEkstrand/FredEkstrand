@@ -14,10 +14,10 @@
 ![Windows](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/WindowsOS64.png) ![Linux](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/LinuxOS64.png) ![Solaris](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/solaris64.png) ![HP-UX](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/hpux64.png) ![Raspberry Pi](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Raspberry_Pi64.png)
 
 ### Development Tools
-![Visual Studio](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/VisualStudio64.png) ![Visual Studio Code](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/VisualStudioCode64.png) ![Eclips](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Eclipse64.png) ![emacs](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Emacs64.png) ![GitHub](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/GitHub64.png) ![tortoisesvn](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/tortoisesvn64.png) ![Atom](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Atom64.png) ![NotePad++](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Notepad++64.png)
+![Visual Studio](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/VisualStudio64.png) ![Visual Studio Code](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/VisualStudioCode64.png) ![Eclips](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Eclipse64.png) ![emacs](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Emacs64.png) ![GitHub](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/GitHub64.png) ![tortoisesvn](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/tortoisesvn64.png) 
 
 ### Other Tools
-![Terminal](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Terminal64.png) ![Gimp](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/gimp64.png)
+![Terminal](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Terminal64.png) ![Gimp](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/gimp64.png) ![Atom](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Atom64.png) ![NotePad++](https://github.com/FredEkstrand/ImageFiles/blob/master/Code/Notepad++64.png)
 
 [![Fred's github stats](https://github-readme-stats.vercel.app/api?username=fredekstrand&show_icons=true)](https://github.com/fredekstrand/github-readme-stats)
 
