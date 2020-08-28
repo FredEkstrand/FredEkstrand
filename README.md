@@ -2,7 +2,7 @@
 ## Software Engineer 
 
 ### Programming Languages
-![C Languge](hhttps://github.com/FredEkstrand/FredEkstrand/blob/master/Images/c-language64.png) ![C++](hhttps://github.com/FredEkstrand/FredEkstrand/blob/master/Images/cpp64.png) ![CSharp](hhttps://github.com/FredEkstrand/FredEkstrand/blob/master/Images/csharp64.png) ![Java](hhttps://github.com/FredEkstrand/FredEkstrand/blob/master/Images/java64.png)
+![C Languge](hhttps://github.com/FredEkstrand/FredEkstrand/Images/c-language64.png) ![C++](hhttps://github.com/FredEkstrand/FredEkstrand/blob/master/Images/cpp64.png) ![CSharp](hhttps://github.com/FredEkstrand/FredEkstrand/blob/master/Images/csharp64.png) ![Java](hhttps://github.com/FredEkstrand/FredEkstrand/blob/master/Images/java64.png)
 
 ### Web Development
 ![HTML](hhttps://github.com/FredEkstrand/FredEkstrand/blob/master/Images/html64.png) ![asp](hhttps://github.com/FredEkstrand/FredEkstrand/blob/master/Images/aspnet64.png) ![css](hhttps://github.com/FredEkstrand/FredEkstrand/blob/master/Images/css64.png) 
