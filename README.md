@@ -1,3 +1,4 @@
+![Header](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/banner.png)
 # Fred Ekstrand
 ## Software Engineer 
 
