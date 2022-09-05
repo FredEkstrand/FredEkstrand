@@ -23,7 +23,7 @@
 ![Visual Studio](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/VisualStudio32.png) ![Visual Studio Code](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/VisualStudioCode32.png) ![Eclips](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/Eclipse32.png) ![emacs](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/Emacs32.png) ![GitHub](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/GitHub32.png) ![tortoisesvn](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/tortoisesvn32.png) 
 
 ### Other Tools
-![Terminal](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/Terminal32.png) ![Atom](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/Atom32.png) ![NotePad++](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/Notepad++32.png) ![PaintdotNet](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/PaintNet32.png) ![Gimp](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/gimp32.png) 
+![Terminal](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/Terminal32.png) ![NotePad++](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/Notepad++32.png) ![PaintdotNet](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/PaintNet32.png) ![Gimp](https://github.com/FredEkstrand/FredEkstrand/blob/master/Images/gimp32.png) 
 
 [![Fred's github stats](https://github-readme-stats.vercel.app/api?username=fredekstrand&show_icons=true)](https://github.com/fredekstrand/github-readme-stats)
 
